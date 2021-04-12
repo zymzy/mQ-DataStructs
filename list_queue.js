@@ -1,3 +1,9 @@
+/**
+ * Author:    microQZR <z.h.m@outlook.com>
+ * Copyright: (c) 2021 microQZR
+ * License:   MIT License <https://github.com/microQZR/mQ-DataStructs/blob/master/LICENSE>
+ **/
+
 /* Queue implemented using a singly linked-list */
 
 class ListQueue {
