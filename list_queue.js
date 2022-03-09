@@ -1,7 +1,7 @@
 /**
- * Author:    microQZR <z.h.m@outlook.com>
- * Copyright: (c) 2021 microQZR
- * License:   MIT License <https://github.com/microQZR/mQ-DataStructs/blob/master/LICENSE>
+ * Author:    Zi Han Meng <zi.han.meng100@gmail.com>
+ * Copyright: (c) 2021 Zi Han Meng
+ * License:   MIT License <https://github.com/zymzy/mQ-DataStructs/blob/master/LICENSE>
  **/
 
 /* Queue implemented using a singly linked-list */
